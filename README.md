@@ -14,14 +14,14 @@
 | **jquick-curl** | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars) **1.1k** |
 | **jquick-excel** | 零配置 Excel 读写 —— 告别 POI 的繁琐代码 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars) |
 | **jquick-path** | JSON Path 查询工具 —— 类似 XPath 但用于 JSON，简洁语法快速提取数据 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
-| **jquick-pdf** | 轻量级 PDF 处理 —— 渲染和文本提取轻松搞定 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars) **120** |
-| **jquick-java** | 基于 Java 的脚本语言 —— 无需编译，动态执行，保留 Java 语法 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars) **165** |
+| **jquick-pdf** | 轻量级 PDF 处理 —— 渲染和文本提取轻松搞定，支持几十种常用echart 图形 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars) **120** |
+| **jquick-java** | 基于 Java 的脚本语言 —— 无需编译，动态执行，兼有java 和html 语言的特点 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars) **165** |
 | **jquick-sql** | 内存 SQL 引擎 —— 对任意数据（集合、JSON、CSV 等）执行 SQL 查询 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
-| **jquick-datasource** | 通用数据源管理 —— 支持多连接池切换（HikariCP、Druid、Tomcat JDBC 等） | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
-| **jquick-mybatis** | MyBatis 增强工具 —— 减少 80% 的 CRUD + 分页样板代码 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
+| **jquick-datasource** | 通用数据源管理 —— 支持常用的ddl 和dml 语言生成 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
+| **jquick-mybatis** | 轻量级 MyBatis 增强框架，支持常用 ORM 操作与 XML 绑定查询，零冗余注解、零侵入业务代码，大幅简化单表 CRUD、动态条件、分页查询与多表关联逻辑 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
 | **jquick-connector** | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars) |
 | **jquick-xmlProxy** | 轻量级 XML 解析与代理工具包 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-xmlProxy?style=flat-square&label=stars) |
-| **javelin** | 企业级 Java 高性能工具库 | ![Stars](https://img.shields.io/github/stars/paohaijiao/javelin?style=flat-square&label=stars) |
+| **javelin** | Java 高性能工具库 | ![Stars](https://img.shields.io/github/stars/paohaijiao/javelin?style=flat-square&label=stars) |
 
 > 📦 所有项目遵循：**轻依赖、低侵入、开箱即用**
 
