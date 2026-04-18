@@ -50,7 +50,7 @@
 | [**jquick-bi**](https://github.com/paohaijiao/jquick-bi) | bi 工具vue前端(进行中 ) | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi?style=flat-square&label=stars) |
 | [**jquick-json**](https://github.com/paohaijiao/jquick-json) | json 解析框架 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-json?style=flat-square&label=stars) |
 | [**jquick-xml**](https://github.com/paohaijiao/xml) | xml 转换框架 | ![Stars](https://img.shields.io/github/stars/paohaijiao/xml?style=flat-square&label=stars) |
-| [**jquick-bi-server**](https://github.com/paohaijiao/jquick-bi-server) | bi 工具vue后端(进行中) | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi-server?style=flat-square&label=stars) |
+| [**jquick-bi-server**](https://github.com/paohaijiao/jquick-bi-server) | bi 工具后端(进行中) | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi-server?style=flat-square&label=stars) |
 
 ---
 
