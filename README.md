@@ -14,6 +14,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ---
 
 ## 🔌 常用框架
@@ -23,9 +26,11 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-EE3524?style=flat-square&logo=mybatis&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-005C8A?style=flat-square&logo=pentaho&logoColor=white)
 ![Solr](https://img.shields.io/badge/Solr-D9411E?style=flat-square&logo=apache-solr&logoColor=white)
+![ANTLR](https://img.shields.io/badge/ANTLR-4C7E9F?style=flat-square&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
 ---
 
 ## 🌐 与我连接
