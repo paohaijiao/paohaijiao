@@ -7,6 +7,28 @@
 
 ---
 
+## 🧰 技术栈与工具
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🔌 常用框架与 AI
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-EE3524?style=for-the-badge&logo=mybatis&logoColor=white)
+
+---
+
+## 🌐 与我连接
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paohaijiao)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goudingcheng@gmail.com)
+
+---
+
 ## 📌 当前项目
 
 > 📦 所有项目遵循：**轻依赖、低侵入、开箱即用**
@@ -24,13 +46,18 @@
 | [**jquick-connector**](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars) |
 | [**jquick-xmlProxy**](https://github.com/paohaijiao/jquick-xmlProxy) | 轻量级 XML 解析与代理工具包 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-xmlProxy?style=flat-square&label=stars) |
 | [**javelin**](https://github.com/paohaijiao/javelin) | Java 高性能工具库 | ![Stars](https://img.shields.io/github/stars/paohaijiao/javelin?style=flat-square&label=stars) |
+| [**jquick-html**](https://github.com/paohaijiao/jquick-html) | html 元素生成器 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-html?style=flat-square&label=stars) |
+| [**jquick-bi**](https://github.com/paohaijiao/jquick-bi) | bi 工具vue前端(进行中 ) | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi?style=flat-square&label=stars) |
+| [**jquick-json**](https://github.com/paohaijiao/jquick-json) | json 解析框架 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-json?style=flat-square&label=stars) |
+| [**jquick-xml**](https://github.com/paohaijiao/xml) | xml 转换框架 | ![Stars](https://img.shields.io/github/stars/paohaijiao/xml?style=flat-square&label=stars) |
+| [**jquick-bi-server**](https://github.com/paohaijiao/jquick-bi-server) | bi 工具vue后端(进行中) | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi-server?style=flat-square&label=stars) |
 
 ---
 
 ## 📊 GitHub 统计
 
 - 过去一年 **1,580+** 次代码提交
-- 活跃维护 **10+** 个 Java 开源仓库
+- 活跃维护 **15+** 个 Java 开源仓库
 - 专注领域：轻量级工具、开发者效率、企业级 Java 基础设施
 
 ---
@@ -41,24 +68,6 @@
 > 工具存在的意义，是让开发者忘记工具本身，专注于真正的业务逻辑。
 
 我不追求炫技。我追求的是——当你再次面对 Excel、HTTP、SQL 这些"不得不做又不想花时间"的任务时，会想起"有个工具能搞定"，然后 5 分钟内收工。
-
----
-
-## 🔌 技术栈
-
-- **主力语言：** Java 8/11/17（兼容性优先）
-- **构建工具：** Maven + Gradle
-- **测试框架：** JUnit 5 + AssertJ
-- **常用框架：** Spring Boot、MyBatis、Vert.x
-- **日常伴侣：** IntelliJ IDEA、Git、Docker
-
----
-
-## 📫 联系我
-
-- **GitHub：** [github.com/paohaijiao](https://github.com/paohaijiao)
-- **坐标：** 中国·成都
-- **状态：** 持续输出中——下一个工具或许就是你正需要的
 
 ---
 
