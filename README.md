@@ -35,9 +35,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Thrift](https://img.shields.io/badge/Thrift-81C341?style=flat-square&logo=apache-thrift&logoColor=white)
 ![iText](https://img.shields.io/badge/iText-00A94F?style=flat-square&logo=itext&logoColor=white)
 
 ---
