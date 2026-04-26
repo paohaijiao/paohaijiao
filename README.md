@@ -56,7 +56,7 @@
 | [**jquick-pdf**](https://github.com/paohaijiao/jquick-pdf) | 工业界第一个不依赖浏览器/WebKit的Java PDF生成工具：原生渲染HTML/CSS，内置30+种ECharts图表。 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars)  |
 | [**jquick-excel**](https://github.com/paohaijiao/jquick-excel) | 零配置 Excel 读写 —— 告别 POI 的繁琐代码 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars) |
 | [**jquick-path**](https://github.com/paohaijiao/jquick-path) | JSON Path 查询工具 —— 类似 XPath 但用于 JSON，简洁语法快速提取数据 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
-| [**jquick-sql**](https://github.com/paohaijiao/jquick-sql) | 内存 SQL 引擎 —— 对任意形式的数据执行关联查询 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
+| [**jquick-sql**](https://github.com/paohaijiao/jquick-sql) | 内存SQL引擎，用SQL语法轻松查询内存数据 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
 | [**jquick-datasource**](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持常用的ddl 和dml 语言生成 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
 | [**jquick-mybatis**](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架，支持常用 ORM 操作与 XML 绑定查询，零冗余注解、零侵入业务代码，大幅简化单表 CRUD、动态条件、分页查询与多表关联逻辑 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
 | [**jquick-connector**](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars) |
