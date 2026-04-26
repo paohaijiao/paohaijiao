@@ -52,7 +52,7 @@
 | 项目 | 描述 | ⭐ Stars |
 |------|------|----------|
 | [**jquick-curl**](https://github.com/paohaijiao/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)  |
-| [**jquick-java**](https://github.com/paohaijiao/jquick-java) | 基于 Java 的脚本语言 —— 无需编译，动态执行，兼有java 和html 语言的特点 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars)  |
+| [**jquick-java**](https://github.com/paohaijiao/jquick-java) | 基于 Java 的脚本语言 —— 无需编译，动态执行，兼有java 和html 语言的特点(可应用于信用评级，评分卡等常用场景中) | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars)  |
 | [**jquick-pdf**](https://github.com/paohaijiao/jquick-pdf) | 工业界第一个不依赖浏览器/WebKit的Java PDF生成工具：原生渲染HTML/CSS，内置30+种ECharts图表。 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars)  |
 | [**jquick-excel**](https://github.com/paohaijiao/jquick-excel) | 零配置 Excel 读写 —— 告别 POI 的繁琐代码 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars) |
 | [**jquick-path**](https://github.com/paohaijiao/jquick-path) | JSON Path 查询工具 —— 类似 XPath 但用于 JSON，简洁语法快速提取数据 | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
