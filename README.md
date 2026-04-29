@@ -60,7 +60,7 @@
 | [**jquick-path**](https://github.com/paohaijiao/jquick-path) | JSON Path 查询工具 —— 类似 XPath 但用于 JSON，简洁语法快速提取数据 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
 | [**jquick-sql**](https://github.com/paohaijiao/jquick-sql) | 内存SQL引擎，用SQL语法轻松查询内存数据 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
 | [**jquick-datasource**](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持常用的ddl 和dml 语言生成 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
-| [**jquick-mybatis**](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架，支持常用 ORM 操作与 XML 绑定查询，零冗余注解、零侵入业务代码，大幅简化单表 CRUD、动态条件、分页查询与多表关联逻辑 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
+| [**jquick-mybatis**](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架，支持常用 ORM 操作与 XML 绑定查询，零冗余注解、零侵入业务代码，大幅简化单表 CRUD、动态条件、分页查询与多表关联逻辑,解决数据源任意切换的问题 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
 | [**jquick-connector**](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars) |
 | [**jquick-xmlProxy**](https://github.com/paohaijiao/jquick-xmlProxy) | 轻量级 XML 解析与代理工具包 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-xmlProxy?style=flat-square&label=stars) |
 | [**javelin**](https://github.com/paohaijiao/javelin) | Java 高性能工具库 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/javelin?style=flat-square&label=stars) |
