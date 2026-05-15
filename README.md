@@ -63,7 +63,6 @@
 | [**jquick-datasource**](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持常用的ddl 和dml 语言生成 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
 | [**jquick-excel**](https://github.com/paohaijiao/jquick-excel) | 零配置 Excel 读写 —— 告别 POI 的繁琐代码 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars) |
 | [**jquick-path**](https://github.com/paohaijiao/jquick-path) | JSON Path 查询工具 —— 类似 XPath 但用于 JSON，简洁语法快速提取数据 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
-
 | [**jquick-transform-function**](https://github.com/paohaijiao/jquick-transform-function) | 通用数据函数库 —— 提供200+常用数据处理、字符串、日期、数学、加解密等工具方法 | ✅  | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars) |
 
 
