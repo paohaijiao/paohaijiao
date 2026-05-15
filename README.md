@@ -52,18 +52,18 @@
 
 > **备注**：表格中“是否支持 XML 配置”标注为 ✅ 的项目，指的是支持类似 **MyBatis 的 Mapper.xml** 或 **jquick-excel.xml** 的**声明式 XML 配置文件**（即通过 XML 定义映射规则、样式、转换逻辑、SQL 绑定等业务配置），而非仅具备基础的 XML 解析能力。
 
-| 项目 | 描述 | 支持XML？ | ⭐ Stars |
-|------|------|----------------|----------|
-| [**jquick-curl**](https://github.com/paohaijiao/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)  |
-| [**jquick-connector**](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | ✅  | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars) |
-| [**jquick-sql**](https://github.com/paohaijiao/jquick-sql) | 混合内存SQL引擎 —— 让内存数据查询如SQL般简单，释放实时分析极致性能 |✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
-| [**jquick-mybatis**](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架，支持常用 ORM 操作与 XML 绑定查询，零冗余注解、零侵入业务代码，大幅简化单表 CRUD、动态条件、分页查询与多表关联逻辑,解决数据源任意切换的问题 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
-| [**jquick-java**](https://github.com/paohaijiao/jquick-java) | 一款专为复杂业务决策场景（如信用评级、风险评分）设计的动态脚本语言。它无缝融入Java生态，无需编译，即时执行，开创性地融合了Java的强逻辑能力与XML的声明式配置风格。| ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars)  |
-| [**jquick-pdf**](https://github.com/paohaijiao/jquick-pdf) | 不依赖浏览器/WebKit的Java PDF生成工具：原生渲染HTML/CSS，内置30+种ECharts图表(支持动态扩展)。 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars)  |
-| [**jquick-datasource**](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持常用的ddl 和dml 语言生成 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
-| [**jquick-excel**](https://github.com/paohaijiao/jquick-excel) | 零配置 Excel 读写 —— 告别 POI 的繁琐代码 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars) |
-| [**jquick-path**](https://github.com/paohaijiao/jquick-path) | JSON Path 查询工具 —— 类似 XPath 但用于 JSON，简洁语法快速提取数据 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
-| [**jquick-transform-function**](https://github.com/paohaijiao/jquick-transform-function) | 通用数据函数库 —— 提供200+常用数据处理、字符串、日期、数学、加解密等工具方法 | ✅  | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars) |
+| 环节 | 项目 | 描述 | 主要用途 | 支持XML？ | ⭐ Stars |
+|------|------|------|----------|----------------|----------|
+| **采集** | [**jquick-curl**](https://github.com/paohaijiao/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | Curl as code，替代OkHttp/Apache HttpClient | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars) |
+| **采集** | [**jquick-connector**](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | 异构数据源统一接入，适配多源数据 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars) |
+| **采集** | [**jquick-excel**](https://github.com/paohaijiao/jquick-excel) | 零配置Excel读写工具 —— 告别POI的繁琐代码，一行搞定导入导出 | Excel文件快速导入导出，无需复杂配置 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars) |
+| **加工** | [**jquick-path**](https://github.com/paohaijiao/jquick-path) | JSON Path查询工具 —— 像XPath操作XML一样，简洁语法快速提取JSON数据 | 从嵌套JSON中快速提取指定路径的值 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
+| **加工** | [**jquick-transform-function**](https://github.com/paohaijiao/jquick-transform-function) | 通用数据函数库 —— 提供200+开箱即用的数据处理方法，让转换逻辑优雅简洁 | 字符串/日期/数学/加解密等通用函数调用 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars) |
+| **加工** | [**jquick-java**](https://github.com/paohaijiao/jquick-java) | 动态业务脚本语言 —— 融合Java强逻辑与XML声明式配置，专为信用评级、风险评分等决策场景设计 | 信用评级、风险评分等动态业务规则编排 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars) |
+| **加工** | [**jquick-sql**](https://github.com/paohaijiao/jquick-sql) | 混合内存SQL引擎 —— 让内存数据查询如SQL般简单，释放实时分析极致性能 | 对Java集合/数组等内存数据执行SQL查询 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
+| **加工** | [**jquick-pdf**](https://github.com/paohaijiao/jquick-pdf) | 原生Java PDF生成工具 —— 不依赖浏览器/WebKit，内置30+种ECharts图表 | 服务端生成PDF报告/发票，无需浏览器 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars) |
+| **存储** | [**jquick-mybatis**](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架 —— 零冗余注解、零侵入业务代码，大幅简化单表CRUD | 简化MyBatis单表CRUD、动态条件、分页与多表关联 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
+| **存储** | [**jquick-datasource**](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持DDL/DML自动生成，让数据库操作回归SQL本质 | 动态生成建表/增删改查SQL，简化数据源操作 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
 
 
 
