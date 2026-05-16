@@ -60,9 +60,7 @@
 | [**jquick-path**](https://github.com/paohaijiao/jquick-path) | JSON Path查询工具 —— 像XPath操作XML一样，简洁语法快速提取JSON数据 | 从嵌套JSON中快速提取指定路径的值 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars) |
 | [**jquick-transform-function**](https://github.com/paohaijiao/jquick-transform-function) | 通用数据函数库 —— 提供200+开箱即用的数据处理方法，让转换逻辑优雅简洁 | 字符串/日期/数学/加解密等通用函数调用 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars) |
 | [**jquick-java**](https://github.com/paohaijiao/jquick-java) | 动态业务脚本语言 —— 融合Java强逻辑与XML声明式配置，专为信用评级、风险评分等决策场景设计 | 信用评级、风险评分等动态业务规则编排 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars) |
-<--
-| [**jquick-sql**](https://github.com/paohaijiao/jquick-sql) | 混合内存SQL引擎 —— 让内存数据查询如SQL般简单，释放实时分析极致性能 | 对Java集合/数组等内存数据执行SQL查询 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
--->
+
 | [**jquick-pdf**](https://github.com/paohaijiao/jquick-pdf) | 原生Java PDF生成工具 —— 不依赖浏览器/WebKit，内置30+种ECharts图表 | 服务端生成PDF报告，无需浏览器 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars) |
 | [**jquick-mybatis**](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架 —— 零冗余注解、零侵入业务代码，大幅简化单表CRUD | 简化MyBatis单表CRUD、动态条件、分页与多表关联 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
 | [**jquick-datasource**](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持DDL/DML自动生成，让数据库操作回归SQL本质 | 动态生成建表/增删改查SQL，简化数据源操作 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
