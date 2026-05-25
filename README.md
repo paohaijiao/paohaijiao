@@ -64,7 +64,7 @@
 | [**jquick-mybatis**](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架 —— 零冗余注解、零侵入业务代码，大幅简化单表CRUD | 简化MyBatis单表CRUD、动态条件、分页与多表关联 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars) |
 | [**jquick-datasource**](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持DDL/DML自动生成，让数据库操作回归SQL本质 | 动态生成建表/增删改查SQL，简化数据源操作 | ❌ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars) |
 
-
+| [**jquick-sql**](https://github.com/paohaijiao/jquick-sql) | 分布式联邦查询SQL引擎 🔴(改造中) | 分布式联邦查询，跨库/跨异构数据源SQL联合分析 | ✅ | ![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars) |
 
 ---
 ## 📊 GitHub 统计
