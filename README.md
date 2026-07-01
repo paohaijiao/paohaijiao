@@ -2,7 +2,7 @@
 
 📍 中国·成都 | 💻 Java 基础设施 & 开源工具构建者
 
-**8 个开源项目 · 2,000+ 累计 GitHub Stars**  
+**8 个开源项目 · 累计 2,000+ GitHub Stars**  
 **2 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf）  
 **过去一年 1,900+ 次代码提交** · 活跃维护 15+ 个仓库
 
