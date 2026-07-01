@@ -1,13 +1,29 @@
-# 嗨，我是 泡海椒  🌶️
+# 👋 嗨，我是 泡海椒 🌶️
 
-📍 中国·成都 | 💻 Java 全栈开发 & 开源贡献者
+📍 中国·成都 | 💻 Java 基础设施 & 开源工具构建者
 
-致力于构建**轻量、实用的 Java 工具集**，让日常开发更简单。  
-信奉"少即是多"——每个工具只解决一个问题，且解决得干净利落。
+**8 个开源项目 · 2,000+ 累计 GitHub Stars**  
+**2 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf）  
+**过去一年 1,900+ 次代码提交** · 活跃维护 15+ 个仓库
+
+我致力于构建轻量、实用的 Java 工具集——让日常开发中那些"不得不做又不想花时间"的任务，**5 分钟内收工**。
+
+信奉 **"少即是多"**：每个工具只解决一个问题，且解决得干净利落。
 
 ---
 
-## 🧰 技术栈与工具
+## 📊 开源投入
+
+| 指标 | 数据 |
+|------|------|
+| 累计 Stars | 2,000+ |
+| Awesome Java 收录 | 2 个项目 |
+| 活跃维护仓库 | 15+ 个 |
+| 近一年提交 | 1,900+ 次 |
+
+---
+
+## 🧰 核心领域与技术栈
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
