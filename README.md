@@ -3,7 +3,7 @@
 📍 中国·成都 | 💻 Java 基础设施 & 开源工具构建者
 
 **8 个开源项目 · 累计 2,000+ GitHub Stars**  
-**2 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf）  
+**3 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf· jquick-java）  
 **过去一年 1,900+ 次代码提交** · 活跃维护 15+ 个仓库
 
 我致力于构建轻量、实用的 Java 工具集——让日常开发中那些"不得不做又不想花时间"的任务，**5 分钟内收工**。
@@ -17,7 +17,7 @@
 | 指标 | 数据 |
 |------|------|
 | 累计 Stars | 2,000+ |
-| Awesome Java 收录 | 2 个项目 |
+| Awesome Java 收录 | 3 个项目 |
 | 活跃维护仓库 | 15+ 个 |
 | 近一年提交 | 1,900+ 次 |
 
