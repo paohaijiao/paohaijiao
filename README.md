@@ -9,6 +9,7 @@
 我致力于构建轻量、实用的 Java 工具集——让日常开发中那些"不得不做又不想花时间"的任务，**5 分钟内收工**。
 
 **核心方法论：声明式配置驱动开发** —— 你只需用 XML 或注解“声明”你要什么，剩下的复杂执行逻辑，由 jquick 工具链自动完成。
+
 **全链路工具覆盖**：从数据采集（jquick-curl / jquick-connector）、加工与汇聚（jquick-transform-function / jquick-java）、持久化落库（jquick-datasource / jquick-mybatis），到最终的可视化呈现（jquick-pdf / jquick-bi），全流程无缝衔接。其中 **jquick-sql** 作为**分布式联邦虚拟数仓引擎**，为上层提供统一的异构数据源查询入口，屏蔽底层差异。
 
 信奉 **"少即是多"**：每个工具只解决一个问题，且解决得干净利落。
