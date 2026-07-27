@@ -82,7 +82,7 @@
 | [jquick-pdf](https://github.com/paohaijiao/jquick-pdf) | 原生Java PDF生成工具 —— 不依赖浏览器/WebKit，内置30+种ECharts图表 | 服务端生成PDF报告，无需浏览器 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-pdf) | 是 |
 | [jquick-mybatis](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架 —— 零冗余注解、零侵入业务代码 | 简化MyBatis单表CRUD、动态条件、分页与多表关联 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-mybatis) | 否 |
 | [jquick-datasource](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持DDL/DML自动生成 | 动态生成建表/增删改查SQL，简化数据源操作 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-datasource) | 否 |
-| [jquick-sql](https://github.com/paohaijiao/jquick-sql) | 分布式联邦查询SQL引擎  | 跨库/跨异构数据源SQL联合分析 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-sql) | 否 |
+| [jquick-sql](https://github.com/paohaijiao/jquick-sql) | 分布式联邦逻辑数据仓库查询SQL引擎  | 跨库/跨异构数据源SQL联合分析 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-sql) | 否 |
 | [jquick-bi](https://github.com/paohaijiao/jquick-bi) | Jquick-bi 引擎(Vue)  | BI 在线联机分析(开发中) | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-bi) | 否 |
 
 
