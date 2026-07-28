@@ -3,7 +3,7 @@
 📍 中国·成都 | 💻 Java 基础设施 & 开源工具构建者
 
 **8 个开源项目 · 累计 2,000+ GitHub Stars**  
-**3 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf· jquick-java）  
+**4 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf· jquick-java·jquick-excel ）  
 **过去一年 1,900+ 次代码提交** · 活跃维护 15+ 个仓库
 
 我致力于构建轻量、实用的 Java 工具集——让日常开发中那些"不得不做又不想花时间"的任务，**5 分钟内收工**。
@@ -21,7 +21,7 @@
 | 指标 | 数据 |
 |------|------|
 | 累计 Stars | 2,000+ |
-| Awesome Java 收录 | 3 个项目 |
+| Awesome Java 收录 | 4 个项目 |
 | 活跃维护仓库 | 15+ 个 |
 | 近一年提交 | 1,900+ 次 |
 
@@ -77,7 +77,7 @@
 |------|------|----------|-----------|-------|----------------------|
 | [jquick-curl](https://github.com/paohaijiao/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | Curl as code，替代OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-curl) | 是 |
 | [jquick-connector](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | 异构数据源统一接入，适配多源数据 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-connector) | 否 |
-| [jquick-excel](https://github.com/paohaijiao/jquick-excel) | 零配置Excel读写工具 —— 告别POI的繁琐代码，一行搞定导入导出 | Excel文件快速导入导出，无需复杂配置 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | 否 |
+| [jquick-excel](https://github.com/paohaijiao/jquick-excel) | 零配置Excel读写工具 —— 告别POI的繁琐代码，一行搞定导入导出 | Excel文件快速导入导出，无需复杂配置 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | 是 |
 | [jquick-path](https://github.com/paohaijiao/jquick-path) | JSON Path查询工具 —— 像XPath操作XML一样，简洁语法快速提取JSON数据 | 从嵌套JSON中快速提取指定路径的值 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-path) | 否 |
 | [jquick-transform-function](https://github.com/paohaijiao/jquick-transform-function) | 通用数据函数库 —— 提供200+开箱即用的数据处理方法 | 基于SPI的函数注册中心，支持动态扩展 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-transform-function) | 否 |
 | [jquick-java](https://github.com/paohaijiao/jquick-java) | 动态业务脚本语言 —— 融合Java强逻辑与XML声明式配置 | 信用评级、风险评分等动态业务规则编排 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-java) | 是 |
