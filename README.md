@@ -1,33 +1,34 @@
-# 👋 嗨，我是 泡海椒 🌶️
+> **[中文](./README-CN.md)**
+# 👋 Hi, I'm Martin 🌶️
 
-📍 中国·成都 | 💻 Java 基础设施 & 开源工具构建者
+📍 Chengdu, China | 💻 Java Infrastructure & Open Source Tool Builder
 
-**8 个开源项目 · 累计 2,000+ GitHub Stars**  
-**4 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf· jquick-java · jquick-excel ）  
-**过去一年 1,900+ 次代码提交** · 活跃维护 15+ 个仓库
+**8 open-source projects · 2,000+ GitHub Stars in total**  
+**4 projects officially included in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel)  
+**1,900+ commits in the past year** · Actively maintaining 15+ repositories
 
-我致力于构建轻量、实用的 Java 工具集——让日常开发中那些"不得不做又不想花时间"的任务，**5 分钟内收工**。
+I'm dedicated to building lightweight, practical Java toolkits — so that those "have-to-do-but-don't-want-to-spend-time-on" tasks in daily development can be **wrapped up within 5 minutes**.
 
-**核心方法论：声明式配置驱动开发** —— 你只需用 XML 或注解“声明”你要什么，剩下的复杂执行逻辑，由 jquick 工具链自动完成。
+**Core methodology: declarative configuration-driven development** — you just "declare" what you want using XML or annotations, and the jquick toolchain automatically handles the rest of the complex execution logic.
 
-**全链路工具覆盖**：从数据采集（jquick-curl / jquick-connector）、加工与汇聚（jquick-transform-function / jquick-java）、持久化落库（jquick-datasource / jquick-mybatis），到最终的可视化呈现（jquick-pdf / jquick-bi），全流程无缝衔接。其中 **jquick-sql** 作为**分布式联邦虚拟数仓引擎**，为上层提供统一的异构数据源查询入口，屏蔽底层差异。
+**Full-link tool coverage**: from data collection (jquick-curl / jquick-connector), processing and aggregation (jquick-transform-function / jquick-java), persistence to database (jquick-datasource / jquick-mybatis), to final visualization (jquick-pdf / jquick-bi) — the entire process is seamlessly connected. Among them, **jquick-sql** serves as a **distributed federated virtual data warehouse engine**, providing a unified query entry for heterogeneous data sources at the upper layer and shielding underlying differences.
 
-信奉 **"少即是多"**：每个工具只解决一个问题，且解决得干净利落。
-
----
-
-## 📊 开源投入
-
-| 指标 | 数据 |
-|------|------|
-| 累计 Stars | 2,000+ |
-| Awesome Java 收录 | 4 个项目 |
-| 活跃维护仓库 | 15+ 个 |
-| 近一年提交 | 1,900+ 次 |
+I believe in **"less is more"**: each tool solves exactly one problem, and solves it cleanly and thoroughly.
 
 ---
 
-## 🧰 核心领域与技术栈
+## 📊 Open Source Investment
+
+| Metric | Data |
+|--------|------|
+| Total Stars | 2,000+ |
+| Awesome Java inclusions | 4 projects |
+| Actively maintained repos | 15+ |
+| Commits in the past year | 1,900+ |
+
+---
+
+## 🧰 Core Domains & Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -38,9 +39,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
+
 ---
 
-## 🔌 常用框架
+## 🔌 Common Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -58,7 +60,7 @@
 
 ---
 
-## 🌐 与我联系
+## 🌐 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/paohaijiao)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:goudingcheng@gmail.com)
@@ -66,43 +68,43 @@
 
 ---
 
-## 📌 当前项目
+## 📌 Current Projects
 
-> 📦 所有项目遵循：**轻依赖、低侵入、开箱即用**
+> 📦 All projects follow: **lightweight dependencies, low intrusion, out-of-the-box**
 
-> **备注**：表格中“是否支持 XML 配置”标注为 ✅ 的项目，指的是支持类似 **MyBatis 的 Mapper.xml** 或 **jquick-excel.xml** 的**声明式 XML 配置文件**（即通过 XML 定义映射规则、样式、转换逻辑、SQL 绑定等业务配置），而非仅具备基础的 XML 解析能力。
+> **Note**: Projects marked with ✅ in the "XML Configuration Support" column refer to support for **declarative XML configuration files** similar to **MyBatis Mapper.xml** or **jquick-excel.xml** (i.e., defining mapping rules, styles, transformation logic, SQL bindings, and other business configurations via XML), rather than merely having basic XML parsing capabilities.
 
-
-| 项目 | 描述 | 主要用途 | 支持XML？ | Stars | 是否被Awesome Java收录 |
-|------|------|----------|-----------|-------|----------------------|
-| [jquick-curl](https://github.com/paohaijiao/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | Curl as code，替代OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-curl) | 是 |
-| [jquick-connector](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | 异构数据源统一接入，适配多源数据 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-connector) | 否 |
-| [jquick-excel](https://github.com/paohaijiao/jquick-excel) | 零配置Excel读写工具 —— 告别POI的繁琐代码，一行搞定导入导出 | Excel文件快速导入导出，无需复杂配置 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | 是 |
-| [jquick-path](https://github.com/paohaijiao/jquick-path) | JSON Path查询工具 —— 像XPath操作XML一样，简洁语法快速提取JSON数据 | 从嵌套JSON中快速提取指定路径的值 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-path) | 否 |
-| [jquick-transform-function](https://github.com/paohaijiao/jquick-transform-function) | 通用数据函数库 —— 提供200+开箱即用的数据处理方法 | 基于SPI的函数注册中心，支持动态扩展 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-transform-function) | 否 |
-| [jquick-java](https://github.com/paohaijiao/jquick-java) | 动态业务脚本语言 —— 融合Java强逻辑与XML声明式配置 | 信用评级、风险评分等动态业务规则编排 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-java) | 是 |
-| [jquick-pdf](https://github.com/paohaijiao/jquick-pdf) | 原生Java PDF生成工具 —— 不依赖浏览器/WebKit，内置30+种ECharts图表 | 服务端生成PDF报告，无需浏览器 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-pdf) | 是 |
-| [jquick-mybatis](https://github.com/paohaijiao/jquick-mybatis) | 轻量级 MyBatis 增强框架 —— 零冗余注解、零侵入业务代码 | 简化MyBatis单表CRUD、动态条件、分页与多表关联 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-mybatis) | 否 |
-| [jquick-datasource](https://github.com/paohaijiao/jquick-datasource) | 通用数据源管理 —— 支持DDL/DML自动生成 | 动态生成建表/增删改查SQL，简化数据源操作 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-datasource) | 否 |
-| [jquick-sql](https://github.com/paohaijiao/jquick-sql) | 分布式联邦逻辑数据仓库查询SQL引擎  | 跨库/跨异构数据源SQL联合分析 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-sql) | 否 |
-| [jquick-bi](https://github.com/paohaijiao/jquick-bi) | Jquick-bi 引擎(Vue)  | BI 在线联机分析(开发中) | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-bi) | 否 |
-
-
----
-## 📊 GitHub 统计
-
-- 过去一年 **1,580+** 次代码提交
-- 活跃维护 **15+** 个 Java 开源仓库
-- 专注领域：轻量级工具、开发者效率、企业级 Java 基础设施
+| Project | Description | Primary Use | XML Support? | Stars | Included in Awesome Java? |
+|---------|-------------|-------------|--------------|-------|---------------------------|
+| [jquick-curl](https://github.com/paohaijiao/jquick-curl) | Lightweight HTTP client — as concise as cURL, with uncompromising performance | Curl as code, replacement for OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-curl) | Yes |
+| [jquick-connector](https://github.com/paohaijiao/jquick-connector) | Universal data connector — converts any tool/data source into a unified in-memory data interface | Unified access to heterogeneous data sources, multi-source data adaptation | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-connector) | No |
+| [jquick-excel](https://github.com/paohaijiao/jquick-excel) | Zero-config Excel read/write tool — say goodbye to POI boilerplate, import/export in one line | Fast Excel file import/export without complex configuration | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | Yes |
+| [jquick-path](https://github.com/paohaijiao/jquick-path) | JSON Path query tool — concise syntax to quickly extract JSON data, like XPath for XML | Quickly extract values at specified paths from nested JSON | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-path) | No |
+| [jquick-transform-function](https://github.com/paohaijiao/jquick-transform-function) | Universal data function library — provides 200+ out-of-the-box data processing methods | SPI-based function registry with support for dynamic extension | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-transform-function) | No |
+| [jquick-java](https://github.com/paohaijiao/jquick-java) | Dynamic business scripting language — combines Java's strong logic with XML declarative configuration | Dynamic business rule orchestration such as credit rating, risk scoring | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-java) | Yes |
+| [jquick-pdf](https://github.com/paohaijiao/jquick-pdf) | Native Java PDF generation tool — no browser/WebKit dependency, built-in 30+ ECharts chart types | Server-side PDF report generation without a browser | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-pdf) | Yes |
+| [jquick-mybatis](https://github.com/paohaijiao/jquick-mybatis) | Lightweight MyBatis enhancement framework — zero redundant annotations, zero business code intrusion | Simplifies MyBatis single-table CRUD, dynamic conditions, pagination, and multi-table associations | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-mybatis) | No |
+| [jquick-datasource](https://github.com/paohaijiao/jquick-datasource) | Universal data source management — supports automatic DDL/DML generation | Dynamically generate table creation / CRUD SQL, simplifying data source operations | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-datasource) | No |
+| [jquick-sql](https://github.com/paohaijiao/jquick-sql) | Distributed federated logical data warehouse query SQL engine | Cross-database / cross-heterogeneous data source SQL federated analysis | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-sql) | No |
+| [jquick-bi](https://github.com/paohaijiao/jquick-bi) | Jquick-bi engine (Vue) | Online BI analytical processing (in development) | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-bi) | No |
 
 ---
 
-## 🧭 理念
+## 📊 GitHub Stats
 
-> **简单、可靠、实用。**  
-> 工具存在的意义，是让开发者忘记工具本身，专注于真正的业务逻辑。
-
-我不追求炫技。我追求的是——当你再次面对 Excel、HTTP、SQL 这些"不得不做又不想花时间"的任务时，会想起"有个工具能搞定"，然后 5 分钟内收工。
+- **1,580+** commits in the past year
+- Actively maintaining **15+** Java open-source repositories
+- Focus areas: lightweight tools, developer productivity, enterprise Java infrastructure
 
 ---
-*最后更新：2026 年春 · 持续完善中*
+
+## 🧭 Philosophy
+
+> **Simple, reliable, practical.**  
+> The purpose of tools is to let developers forget about the tools themselves and focus on the real business logic.
+
+I don't chase flashy tech. I pursue this — when you next face those "have-to-do-but-don't-want-to-spend-time-on" tasks like Excel, HTTP, or SQL, you'll remember "there's a tool that can handle it", and wrap it up within 5 minutes.
+
+---
+
+*Last updated: Spring 2026 · Continuously improving*
