@@ -17,7 +17,7 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 
 ---
 
-## 📊 Open Source Investment
+## 📊 Open Source Commitment
 
 | Metric | Data |
 |--------|------|
