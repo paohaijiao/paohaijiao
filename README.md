@@ -4,7 +4,7 @@
 📍 Chengdu, China | 💻 Java Infrastructure & Open Source Tool Builder
 
 **8 open-source projects · 2,000+ GitHub Stars in total**  
-**4 projects officially included in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel)  
+**4 projects officially featured  in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel)  
 **1,900+ commits in the past year** · Actively maintaining 15+ repositories
 
 I'm dedicated to building lightweight, practical Java toolkits — so that those "have-to-do-but-don't-want-to-spend-time-on" tasks in daily development can be **wrapped up within 5 minutes**.
