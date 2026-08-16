@@ -9,7 +9,7 @@
 
 I build Java infrastructure, developer tools, and runtime systems — from language runtimes and query engines to network gateways and high-performance data processing.
 
-I'm dedicated to building lightweight, practical Java toolkits — so that those "have-to-do-but-don't-want-to-spend-time-on" tasks in daily development can be **wrapped up within 5 minutes**.
+I focus on building infrastructure that makes complex engineering tasks simpler, faster, and easier to integrate.
 
 **Core methodology: declarative configuration-driven development** — you just "declare" what you want using XML or annotations, and the jquick toolchain automatically handles the rest of the complex execution logic.
 
