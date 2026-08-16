@@ -7,6 +7,8 @@
 **4 projects officially featured  in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel)  
 **1,900+ commits in the past year** · Actively maintaining 15+ repositories
 
+I build Java infrastructure, developer tools, and runtime systems — from language runtimes and query engines to network gateways and high-performance data processing.
+
 I'm dedicated to building lightweight, practical Java toolkits — so that those "have-to-do-but-don't-want-to-spend-time-on" tasks in daily development can be **wrapped up within 5 minutes**.
 
 **Core methodology: declarative configuration-driven development** — you just "declare" what you want using XML or annotations, and the jquick toolchain automatically handles the rest of the complex execution logic.
