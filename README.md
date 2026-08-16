@@ -19,6 +19,28 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 
 ---
 
+## JQuick Architecture
+
+```text
+                              JQuick
+                                |
+             +------------------+------------------+
+             |                  |                  |
+          Runtime              Data             Network
+             |                  |                  |
+     +-------+-------+    +-----+----------+       |
+     |       |       |    |     |     |     |      |
+ jquick-  jquick-  jquick- jquick- jquick- jquick- jquick-
+ java     json     asm     sql    connector transform hub
+                              |
+                              |
+                       Developer Tools
+                              |
+                +-------------+-------------+
+                |             |             |
+           jquick-curl   jquick-excel   jquick-pdf
+```
+
 ## 📊 Open Source Commitment
 
 | Metric | Data |
