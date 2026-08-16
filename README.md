@@ -13,7 +13,7 @@ I focus on building infrastructure that makes complex engineering tasks simpler,
 
 **Core methodology: declarative configuration-driven development** — you just "declare" what you want using XML or annotations, and the jquick toolchain automatically handles the rest of the complex execution logic.
 
-**Full-link tool coverage**: from data collection (jquick-curl / jquick-connector), processing and aggregation (jquick-transform-function / jquick-java), persistence to database (jquick-datasource / jquick-mybatis), to final visualization (jquick-pdf / jquick-bi) — the entire process is seamlessly connected. Among them, **jquick-sql** serves as a **distributed federated virtual data warehouse engine**, providing a unified query entry for heterogeneous data sources at the upper layer and shielding underlying differences.
+**End-to-end infrastructure coverage**: from data collection (jquick-curl / jquick-connector), processing and aggregation (jquick-transform-function / jquick-java), persistence to database (jquick-datasource / jquick-mybatis), to final visualization (jquick-pdf / jquick-bi) — the entire process is seamlessly connected. Among them, **jquick-sql** serves as a **distributed federated virtual data warehouse engine**, providing a unified query entry for heterogeneous data sources at the upper layer and shielding underlying differences.
 
 I believe in **"less is more"**: each tool solves exactly one problem, and solves it cleanly and thoroughly.
 
