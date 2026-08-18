@@ -17,6 +17,30 @@
 
 ---
 
+
+## JQuick Architecture
+
+```text
+                              JQuick
+                                |
+             +------------------+------------------+
+             |                  |                  |
+          Runtime              Data             Network
+             |                  |                  |
+     +-------+-------+    +-----+----------+       |
+     |       |       |    |     |     |     |      |
+ jquick-  jquick-  jquick- jquick- jquick- jquick- jquick-
+ java     json     asm     sql    connector transform hub
+                              |
+                              |
+                       Developer Tools
+                              |
+                +-------------+-------------+
+                |             |             |
+           jquick-curl   jquick-excel   jquick-pdf
+```
+
+
 ## 📊 开源投入
 
 | 指标 | 数据 |
