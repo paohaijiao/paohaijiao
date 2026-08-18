@@ -100,6 +100,8 @@
 
 | 项目 | 描述 | 主要用途 | 支持XML？ | Stars | 是否被Awesome Java收录 |
 |------|------|----------|-----------|-------|----------------------|
+| [jquick-hub](https://github.com/paohaijiao/jquick-hub) | jquick-hub（**TCP网关**），可用作Docker镜像：docker pull **paohaijiao/jquick-hub:latest** | 基于Netty 4构建的高性能**协议嗅探TCP网关**。它暴露单个公共端口，并根据收到的第一个数据包自动将入站数据包路由到不同的后端服务 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-hub?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-hub) | 否 |
+| [jquick-json](https://github.com/paohaijiao/jquick-json) | 使用 **JQuick-ASM** 字节码技术生成替代反射的代码，使 JSON 序列化/反序列化性能提升高达 54 倍 | JQuick JSON 是一个基于字节码驱动的 Java JSON 序列化与反序列化库。它利用 ASM 在运行时生成优化的对象映射代码，从而降低基于反射的序列化所带来的开销 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-json?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-json) | 否 |
 | [jquick-curl](https://github.com/paohaijiao/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | Curl as code，替代OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-curl) | 是 |
 | [jquick-connector](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | 异构数据源统一接入，适配多源数据 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-connector) | 否 |
 | [jquick-excel](https://github.com/paohaijiao/jquick-excel) | 零配置Excel读写工具 —— 告别POI的繁琐代码，一行搞定导入导出 | Excel文件快速导入导出，无需复杂配置 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | 是 |
