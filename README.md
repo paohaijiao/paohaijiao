@@ -4,7 +4,7 @@
 📍 Chengdu, China | 💻 Java Infrastructure & Open Source Tool Builder
 
 **13+ open-source projects · 2,000+ GitHub Stars in total**  
-**4 projects officially featured  in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel)  
+**5 projects officially featured  in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel · jquick-sql)  
 **1,900+ commits in the past year** · Actively maintaining 15+ repositories
 
 I build Java infrastructure, developer tools, and runtime systems — from language runtimes and query engines to network gateways and high-performance data processing.
@@ -46,7 +46,7 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 | Metric | Data |
 |--------|------|
 | Total Stars | 2,000+ |
-| Awesome Java inclusions | 4 projects |
+| Awesome Java inclusions | 5 projects |
 | Actively maintained repos | 15+ |
 | Commits in the past year | 1,900+ |
 
@@ -111,7 +111,7 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 | [jquick-pdf](https://github.com/paohaijiao/jquick-pdf) | Native Java PDF generation tool — **no browser/WebKit dependency**, built-in **30+ ECharts like chart types** | Server-side PDF report generation without a browser | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-pdf) | Yes |
 | [jquick-mybatis](https://github.com/paohaijiao/jquick-mybatis) | Lightweight MyBatis enhancement framework — zero redundant annotations, zero business code intrusion | Simplifies MyBatis single-table CRUD, dynamic conditions, pagination, and multi-table associations | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-mybatis?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-mybatis) | No |
 | [jquick-datasource](https://github.com/paohaijiao/jquick-datasource) | Universal data source management — supports automatic DDL/DML generation | Dynamically generate table creation / CRUD SQL, simplifying data source operations | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-datasource?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-datasource) | No |
-| [jquick-sql](https://github.com/paohaijiao/jquick-sql) | Distributed **federated logical data warehouse** query SQL engine | Cross-database / cross-heterogeneous data source SQL federated analysis | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-sql) | No |
+| [jquick-sql](https://github.com/paohaijiao/jquick-sql) | Distributed **federated logical data warehouse** query SQL engine | Cross-database / cross-heterogeneous data source SQL federated analysis | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-sql?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-sql) | Yes |
 | [jquick-bi](https://github.com/paohaijiao/jquick-bi) | Jquick-bi engine (Vue) | Online BI analytical processing (in development) | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-bi?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-bi) | No |
 
 ---
