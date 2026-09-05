@@ -5,7 +5,7 @@
 
 **13+ open-source projects · 2,000+ GitHub Stars in total**  
 **5 projects officially featured  in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel · jquick-sql)  
-**1,900+ commits in the past year** · Actively maintaining 15+ repositories
+Actively maintaining 15+ repositories
 
 I build Java infrastructure, developer tools, and runtime systems — from language runtimes and query engines to network gateways and high-performance data processing.
 
