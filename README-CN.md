@@ -5,7 +5,7 @@
 
 **8 个开源项目 · 累计 2,000+ GitHub Stars**  
 **4 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf· jquick-java · jquick-excel ）  
-**过去一年 1,900+ 次代码提交** · 活跃维护 15+ 个仓库
+活跃维护 15+ 个仓库
 
 我致力于构建轻量、实用的 Java 工具集——让日常开发中那些"不得不做又不想花时间"的任务，**5 分钟内收工**。
 
