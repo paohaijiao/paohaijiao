@@ -3,7 +3,6 @@
 
 📍 Chengdu, China | 💻 Java Infrastructure & Open Source Tool Builder
 
-**13+ open-source projects · 2,000+ GitHub Stars in total**  
 **5 projects officially featured  in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl (donated to the **Dromara community**)· jquick-pdf · jquick-java · jquick-excel · jquick-sql)  
 
 
@@ -47,10 +46,8 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 
 | Metric | Data |
 |--------|------|
-| Total Stars | 2,000+ |
 | Awesome Java inclusions | 5 projects |
 | Actively maintained repos | 15+ |
-| Commits in the past year | 1,900+ |
 
 ---
 
@@ -119,8 +116,6 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 ---
 
 ## 📊 GitHub Stats
-
-- **1,580+** commits in the past year
 - Actively maintaining **15+** Java open-source repositories
 - Focus areas: lightweight tools, developer productivity, enterprise Java infrastructure
 
