@@ -1,7 +1,7 @@
 > **[中文](./README-CN.md)**
 # 👋 Hi, I'm Martin 🌶️
 
-📍 Chengdu, China | 💻 Java Infrastructure & Open Source Tool Builder
+📍 Chengdu, China | 💻 Independent Java Developer
 
 🌐 **Official Website: [https://www.jquick.org/](https://www.jquick.org/)**
 
