@@ -3,9 +3,15 @@
 
 📍 中国·成都 | 💻 Java 基础设施 & 开源工具构建者
 
-**8 个开源项目 · 累计 2,000+ GitHub Stars**  
-**4 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf· jquick-java · jquick-excel ）  
+🌐 **官网：[https://www.jquick.org/](https://www.jquick.org/)**
+
+**13 个开源项目 · 累计 2,000+ GitHub Stars**  
+**5 个项目被 [Awesome Java](https://github.com/akullpp/awesome-java) 官方收录**（jquick-curl · jquick-pdf · jquick-java · jquick-excel · jquick-sql）  
 活跃维护 15+ 个仓库
+
+> ⚠️ **公告**：**jquick-curl** 已捐赠 **[Dromara](https://github.com/dromara)** 开源社区。
+> fork / star / 提 Issue / 提 PR 请前往 Dromara 组织：
+> 👉 **[dromara/jquick-curl](https://github.com/dromara/jquick-curl)**
 
 我致力于构建轻量、实用的 Java 工具集——让日常开发中那些"不得不做又不想花时间"的任务，**5 分钟内收工**。
 
@@ -19,6 +25,10 @@
 
 
 ## JQuick Architecture
+
+<p align="center">
+  <img src="./images/jquick-architecture.gif" alt="JQuick 生态架构动画：数据采集 → 数据处理聚合 → 持久化 → 可视化；jquick-sql 顶层联邦统一查询，jquick-hub 独立网络网关" width="100%" />
+</p>
 
 ```text
                               JQuick
@@ -46,7 +56,7 @@
 | 指标 | 数据 |
 |------|------|
 | 累计 Stars | 2,000+ |
-| Awesome Java 收录 | 4 个项目 |
+| Awesome Java 收录 | 5 个项目 |
 | 活跃维护仓库 | 15+ 个 |
 | 近一年提交 | 1,900+ 次 |
 
@@ -102,9 +112,9 @@
 |------|------|----------|-----------|-------|----------------------|
 | [jquick-hub](https://github.com/paohaijiao/jquick-hub) | jquick-hub（**TCP网关**），可用作Docker镜像：docker pull **paohaijiao/jquick-hub:latest** | 基于Netty 4构建的高性能**协议嗅探TCP网关**。它暴露单个公共端口，并根据收到的第一个数据包自动将入站数据包路由到不同的后端服务 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-hub?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-hub) | 否 |
 | [jquick-json](https://github.com/paohaijiao/jquick-json) | 使用 **JQuick-ASM** 字节码技术生成替代反射的代码，使 JSON 序列化/反序列化性能提升高达 54 倍 | JQuick JSON 是一个基于字节码驱动的 Java JSON 序列化与反序列化库。它利用 ASM 在运行时生成优化的对象映射代码，从而降低基于反射的序列化所带来的开销 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-json?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-json) | 否 |
-| [jquick-curl](https://github.com/paohaijiao/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协 | Curl as code，替代OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-curl) | 是 |
+| [jquick-curl](https://github.com/dromara/jquick-curl) | 轻量级 HTTP 客户端 —— 像 cURL 一样简洁，性能毫不妥协（已捐赠 Dromara 社区维护） | Curl as code，替代OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/dromara/jquick-curl?style=flat-square&label=stars)](https://github.com/dromara/jquick-curl) | 是 |
 | [jquick-connector](https://github.com/paohaijiao/jquick-connector) | 通用数据连接器 —— 将任意工具/数据源转换为统一的内存数据接口 | 异构数据源统一接入，适配多源数据 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-connector) | 否 |
-| [jquick-excel](https://github.com/paohaijiao/jquick-excel) | 零配置Excel读写工具 —— 告别POI的繁琐代码，一行搞定导入导出 | Excel文件快速导入导出，无需复杂配置 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | 是 |
+| [jquick-excel](https://github.com/paohaijiao/jquick-excel) | 零配置 Excel 读写 —— 流式解析、样式缓存、AST 缓存，告别POI的繁琐代码，一行搞定导入导出 | Excel文件快速导入导出，无需复杂配置 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | 是 |
 | [jquick-path](https://github.com/paohaijiao/jquick-path) | JSON Path查询工具 —— 像XPath操作XML一样，简洁语法快速提取JSON数据 | 从嵌套JSON中快速提取指定路径的值 | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-path) | 否 |
 | [jquick-transform-function](https://github.com/paohaijiao/jquick-transform-function) | 通用数据函数库 —— 提供200+开箱即用的数据处理方法 | 基于SPI的函数注册中心，支持动态扩展 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-transform-function?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-transform-function) | 否 |
 | [jquick-java](https://github.com/paohaijiao/jquick-java) | 动态业务脚本语言 —— 融合Java强逻辑与XML声明式配置 | 信用评级、风险评分等动态业务规则编排 | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-java) | 是 |
@@ -118,7 +128,7 @@
 ---
 ## 📊 GitHub 统计
 
-- 过去一年 **1,580+** 次代码提交
+- 过去一年 **1,900+** 次代码提交
 - 活跃维护 **15+** 个 Java 开源仓库
 - 专注领域：轻量级工具、开发者效率、企业级 Java 基础设施
 
@@ -132,4 +142,4 @@
 我不追求炫技。我追求的是——当你再次面对 Excel、HTTP、SQL 这些"不得不做又不想花时间"的任务时，会想起"有个工具能搞定"，然后 5 分钟内收工。
 
 ---
-*最后更新：2026 年春 · 持续完善中*
+*最后更新：2026 年冬 · 持续完善中*

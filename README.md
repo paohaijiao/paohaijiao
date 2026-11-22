@@ -5,7 +5,8 @@
 
 🌐 **Official Website: [https://www.jquick.org/](https://www.jquick.org/)**
 
-**5 projects officially featured  in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel · jquick-sql)  
+**13 open-source projects · 2,000+ GitHub Stars**  
+**5 projects officially featured in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel · jquick-sql)  
 
 > ⚠️ **Notice**: **jquick-curl** has been donated to the **[Dromara community](https://github.com/dromara)**.
 > Please visit the Dromara organization to **fork / star / contribute / open issues** for jquick-curl:
@@ -27,6 +28,10 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 ---
 
 ## JQuick Architecture
+
+<p align="center">
+  <img src="./images/jquick-architecture.gif" alt="JQuick ecosystem architecture in motion: data ingestion → processing & aggregation → persistence → visualization; jquick-sql as the top federated query entry, jquick-hub as an independent network gateway" width="100%" />
+</p>
 
 ```text
                               JQuick
@@ -52,8 +57,10 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 
 | Metric | Data |
 |--------|------|
+| Total Stars | 2,000+ |
 | Awesome Java inclusions | 5 projects |
 | Actively maintained repos | 15+ |
+| Commits in the last year | 1,900+ |
 
 ---
 
@@ -107,7 +114,7 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 |---------|-------------|-------------|--------------|-------|---------------------------|
 | [jquick-hub](https://github.com/paohaijiao/jquick-hub) | jquick-hub (**TCP Gateway**) Available as a Docker image: **docker pull paohaijiao/jquick-hub:latest**| A high-performance protocol-sniffing **TCP gateway** built on Netty 4. It exposes a single public port and automatically routes inbound data package to different backends based on the first packet | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-hub?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-hub) | No |
 | [jquick-json](https://github.com/paohaijiao/jquick-json) | using **JQuick-ASM** bytecode to generate alternative reflections, achieving a performance improvement of up to 54 times for JSON serialization/deserialization.| JQuick JSON is a bytecode-driven JSON serialization and deserialization library for Java. It leverages ASM to generate optimized object mapping code at runtime, reducing the overhead associated with reflection-based serialization. | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-json?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-json) | No |
-| [jquick-curl](https://github.com/paohaijiao/jquick-curl) | Lightweight HTTP client — as concise as cURL, with uncompromising performance | **Curl as code**, replacement for OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-curl?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-curl) | Yes |
+| [jquick-curl](https://github.com/dromara/jquick-curl) | Lightweight HTTP client — as concise as cURL, with uncompromising performance (maintained by the Dromara community) | **Curl as code**, replacement for OkHttp/Apache HttpClient | ✅ | [![Stars](https://img.shields.io/github/stars/dromara/jquick-curl?style=flat-square&label=stars)](https://github.com/dromara/jquick-curl) | Yes |
 | [jquick-connector](https://github.com/paohaijiao/jquick-connector) | Universal data connector — converts any tool/data source into a unified in-memory data interface | **Unified access to heterogeneous data sources**, multi-source data adaptation | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-connector?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-connector) | No |
 | [jquick-excel](https://github.com/paohaijiao/jquick-excel) | Zero-config Excel read/write tool — say goodbye to POI boilerplate, import/export in one line | High-performance Excel processing with **streaming**, style **caching**, **AST** caching, and shared **OPCPackage** parsing. | ✅ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-excel) | Yes |
 | [jquick-path](https://github.com/paohaijiao/jquick-path) | JSON Path query tool — concise syntax to quickly extract JSON data, like XPath for XML | Quickly extract values at specified paths from nested JSON | ❌ | [![Stars](https://img.shields.io/github/stars/paohaijiao/jquick-path?style=flat-square&label=stars)](https://github.com/paohaijiao/jquick-path) | No |
@@ -122,6 +129,7 @@ I believe in **"less is more"**: each tool solves exactly one problem, and solve
 ---
 
 ## 📊 GitHub Stats
+- **1,900+** commits in the past year
 - Actively maintaining **15+** Java open-source repositories
 - Focus areas: lightweight tools, developer productivity, enterprise Java infrastructure
 
@@ -136,4 +144,4 @@ I don't chase flashy tech. I pursue this — when you next face those "have-to-d
 
 ---
 
-*Last updated: Spring 2026 · Continuously improving*
+*Last updated: Winter 2026 · Continuously improving*
