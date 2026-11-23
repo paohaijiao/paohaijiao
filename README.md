@@ -5,7 +5,6 @@
 
 🌐 **Official Website: [https://www.jquick.org/](https://www.jquick.org/)**
 
-**13 open-source projects · 2,000+ GitHub Stars**  
 **5 projects officially featured in [Awesome Java](https://github.com/akullpp/awesome-java)** (jquick-curl · jquick-pdf · jquick-java · jquick-excel · jquick-sql)  
 
 > ⚠️ **Notice**: **jquick-curl** has been donated to the **[Dromara community](https://github.com/dromara)**.
